@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
