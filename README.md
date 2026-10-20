@@ -123,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
