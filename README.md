@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0525-contiguous-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0056-merge-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0875-koko-eating-bananas) |
@@ -169,4 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
