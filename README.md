@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -178,5 +181,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
