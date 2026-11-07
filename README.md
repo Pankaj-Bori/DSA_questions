@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0739-daily-temperatures) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/Pankaj-Bori/DSA_questions/tree/master/2351-first-letter-to-appear-twice) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0409-longest-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/Pankaj-Bori/DSA_questions/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -189,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -198,4 +204,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
