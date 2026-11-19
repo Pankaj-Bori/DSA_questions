@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0621-task-scheduler) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0692-top-k-frequent-words) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
