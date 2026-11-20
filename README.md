@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pankaj-Bori/DSA_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -187,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Ternary Search
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0229-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Pankaj-Bori/DSA_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
